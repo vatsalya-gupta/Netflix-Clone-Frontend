@@ -1,0 +1,15 @@
+{
+  "short_name": "Netflix Clone Front-end",
+  "name": "Netflix Clone created by Vatsalya Gupta",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Netflix_2015_N_logo.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
